@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "solution-banner-havanna-client-side-solution",
+    "id": "691e62a1-d1f3-4cba-9737-29431a1819ec",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "SolutionBannerHavanna description"
+      },
+      "longDescription": {
+        "default": "SolutionBannerHavanna description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "solution-banner-havanna Feature",
+        "description": "The feature that activates elements of the solution-banner-havanna solution.",
+        "id": "2e9cb340-54e5-4dff-8b85-81c220b5c974",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/solution-banner-havanna.sppkg"
+  }
+}
